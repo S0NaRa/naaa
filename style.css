@@ -1,0 +1,33 @@
+h1,h2,h3{
+    color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#dam{
+    color: rgb(46, 46, 232);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.dam{
+    color: rgb(88, 77, 233);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.done {
+    width: 80%;
+    text-align: center;
+    border-collapse: collapse;
+}
+.done th,td{
+
+    border: 1px solid black;
+    padding: 5px;
+
+}
+.done th{
+font-style: italic;
+}
+.homeclass{
+    color: rgb(191, 255, 0);
+}
